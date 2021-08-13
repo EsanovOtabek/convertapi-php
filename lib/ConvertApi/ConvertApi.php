@@ -63,7 +63,7 @@ class ConvertApi
      * @param string $toFormat Convert to format
      * @param array $params Conversion parameters
      * @param string $fromFormat Convert from format
-     * @param int $conversionTimeout Conversion timeout
+     * @param int $conversionTimeout Conversion timeout esanov
      *
      * @return \ConvertApi\Result Conversion result
      */
